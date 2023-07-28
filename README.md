@@ -7,9 +7,9 @@
 
 - 🌱 Atualmente estou me aperfeiçoando no **Front-End**
 
-- 👯 Siga-me no instagram [(PESSOAL)](https://www.instagram.comm/zzjuuan/)
+- 👯 Siga-me no instagram [(PESSOAL)](https://www.instagram.com/zzjuuan/)
 
-- 👯 Siga-me no instagram [(TRABALHO)](https://www.instagram.comm/zzjuuan.code/)
+- 👯 Siga-me no instagram [(TRABALHO)](https://www.instagram.com/zzjuuan.code/)
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/zzjuuan](https://github.com/zzjuuan)
 
