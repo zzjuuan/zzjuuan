@@ -1,23 +1,17 @@
 <h1 align="center">Olá 👋, Eu sou Juan</h1>
-<h3 align="center">Atualmente atuo como desenvolvedor Back-End solo</h3>
+<h3 align="center">Estagiário de segurança da informação | Ciência da Computação na FIAP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzjuuan&label=Visitas%20ao%20perfil&color=3f3b3b&style=flat" alt="zzjuuan" /> </p>
 
-- 🔭 No momento estou trabalhando com [JS, PHP, HTML e CSS](https://github.com/zzjuuan)
+- 🔭 No momento estou trabalhando com [Segurança da Informação](https://www.linkedin.com/company/afrika-tecnologia)
 
-- 🌱 Atualmente estou me aperfeiçoando no **Front-End**
+- 🌱 Atualmente estou me aperfeiçoando em **Segurança da Informação**
 
 - 👯 Siga-me no instagram [(PESSOAL)](https://www.instagram.com/zzjuuan/)
 
-- 👯 Siga-me no instagram [(TRABALHO)](https://www.instagram.com/zzjuuan.code/)
-
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/zzjuuan](https://github.com/zzjuuan)
 
-- 💬 Pergunte-me sobre **JS, PHP, HTML e CSS**
-
-- 📫 Entre em contato **contato.zzjuuan@gmail.com**
-
-- ⚡ Um fato engraçado sobre mim **Imito perfeitamente o cara que fala "Você quer dar se fala né"**
+- 📫 Entre em contato **(11) 97140-2383**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
